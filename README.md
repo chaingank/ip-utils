@@ -1,6 +1,10 @@
 # ip-utils
 Golang编写的IP工具库，包含：IP列表合并为网段列表、IPv6书写格式转化、IP排序、随机生成IP序列等功能。
 
+```
+go get github.com/chaingank/ip-utils
+```
+
 ## 1 介绍
 
 ### 1.1 IP排序
